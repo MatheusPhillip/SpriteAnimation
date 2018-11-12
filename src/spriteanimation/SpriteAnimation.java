@@ -42,6 +42,8 @@ public class SpriteAnimation extends Application {
     private Image down[] = new Image[3];
     private Image boneco;
     
+    //   ----> Essa eh uma alteração!!!!!!!! <----
+    
     
     @Override
     public void start(Stage stage) {
